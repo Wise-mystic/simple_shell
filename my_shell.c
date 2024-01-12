@@ -10,7 +10,8 @@ int main(void);
 {
 	char command[130];
 
-while (true);
+while
+	(true);
 
 {
 	display_prompt();
@@ -18,5 +19,5 @@ while (true);
 	execute_command(command);
 }
 }
-	return 0;
-	}
+return : 0; /*the promptinvoker */
+}

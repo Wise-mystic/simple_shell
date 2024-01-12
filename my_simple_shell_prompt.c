@@ -5,5 +5,5 @@
 
 void display_prompt(void);
 {
-	wise_print("leo_shell$ ");
+	wise_print("wise_shell$ ");
 }
