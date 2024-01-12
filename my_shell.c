@@ -4,7 +4,7 @@
  *this is the prompt invoker
  */
 
-{
+
 int main(void);
 
 {
@@ -18,6 +18,6 @@ while
 	read_command(command, sizeof(command));
 	execute_command(command);
 }
-}
+
 return : 0; /*the promptinvoker */
 }
