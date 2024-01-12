@@ -4,8 +4,7 @@
  * execute my functions in the simple shell project
  */
 
-void execute_command(const char *command);
-{
+void execute_command(const char *command);{
 	pid_t child_pid = fork();
 
 	if

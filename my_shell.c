@@ -19,5 +19,5 @@ while
 	execute_command(command);
 }
 
-return : 0; /*the promptinvoker */
+return (0); /*the promptinvoker */
 }
